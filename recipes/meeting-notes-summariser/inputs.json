@@ -1,0 +1,17 @@
+[
+  {
+    "name": "meeting_title",
+    "label": "Meeting Title",
+    "example": "Q3 Engineering Roadmap & Release Planning"
+  },
+  {
+    "name": "participants",
+    "label": "Participants",
+    "example": "Alice (Tech Lead), Bob (Product Manager), Charlie (DevOps Lead), Dana (Backend Dev)"
+  },
+  {
+    "name": "transcript",
+    "label": "Meeting Notes / Transcript",
+    "example": "Bob: We need to freeze feature branch releases by Friday for Q3 launch. Alice: Agreed, but we have two critical PRs for DB migration pending review. Charlie: I can run staging load tests once migrations land on Wednesday. Dana: I will finish DB migration tests by Tuesday 3 PM. Alice: Perfect. Bob: Let us also cut the release notes on Thursday. Charlie: I will monitor infra alerts during deployment on Friday."
+  }
+]
